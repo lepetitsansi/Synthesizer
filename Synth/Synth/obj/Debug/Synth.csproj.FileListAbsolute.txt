@@ -1,0 +1,10 @@
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.csprojAssemblyReference.cache
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.Synthesizer.resources
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.Properties.Resources.resources
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.csproj.GenerateResource.cache
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.csproj.CoreCompileInputs.cache
+L:\Visual Studio\Synth\Synth\bin\Debug\Synth.exe.config
+L:\Visual Studio\Synth\Synth\bin\Debug\Synth.exe
+L:\Visual Studio\Synth\Synth\bin\Debug\Synth.pdb
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.exe
+L:\Visual Studio\Synth\Synth\obj\Debug\Synth.pdb
